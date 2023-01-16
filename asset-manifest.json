@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/git%20remote%20add%20origin%20https://github.com/hilaldedek/React-RandomUser.git/static/css/main.0d10515e.css",
+    "main.js": "/git%20remote%20add%20origin%20https://github.com/hilaldedek/React-RandomUser.git/static/js/main.ced8d39a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/git%20remote%20add%20origin%20https://github.com/hilaldedek/React-RandomUser.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/countries.png": "/git%20remote%20add%20origin%20https://github.com/hilaldedek/React-RandomUser.git/static/media/countries.75aa5cc0bbf8d1b53ee3.png",
+    "static/media/people.png": "/git%20remote%20add%20origin%20https://github.com/hilaldedek/React-RandomUser.git/static/media/people.d426dc98443563b0c31c.png",
+    "static/media/birthday-cake.png": "/git%20remote%20add%20origin%20https://github.com/hilaldedek/React-RandomUser.git/static/media/birthday-cake.395530285216bf8c1c56.png",
+    "static/media/telephone.png": "/git%20remote%20add%20origin%20https://github.com/hilaldedek/React-RandomUser.git/static/media/telephone.ea97dfdc4662e0585c23.png",
+    "static/media/gmail.png": "/git%20remote%20add%20origin%20https://github.com/hilaldedek/React-RandomUser.git/static/media/gmail.a2f2146f929409405da0.png",
+    "index.html": "/git%20remote%20add%20origin%20https://github.com/hilaldedek/React-RandomUser.git/index.html",
+    "main.0d10515e.css.map": "/git%20remote%20add%20origin%20https://github.com/hilaldedek/React-RandomUser.git/static/css/main.0d10515e.css.map",
+    "main.ced8d39a.js.map": "/git%20remote%20add%20origin%20https://github.com/hilaldedek/React-RandomUser.git/static/js/main.ced8d39a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/git%20remote%20add%20origin%20https://github.com/hilaldedek/React-RandomUser.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d10515e.css",
+    "static/js/main.ced8d39a.js"
+  ]
+}
